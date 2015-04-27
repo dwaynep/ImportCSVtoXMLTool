@@ -1,0 +1,8 @@
+registrationId,requestDate,registerId,lastName,firstName,middleName,maidenName,alias,idCardNumber,idCardType,birthDate,streetAddress,city,state,zipCode,country,emailAddress,phoneNumber,phoneType
+1,5/5/1981,20,Howard,Darren,Kyrie,,DH,4512T,Social Insurance,5/5/1970,1 Place Drive,Toronto,Ontario,H8M3B4,Canada,nonvalidemail@email.com,5148481111,Home
+2,5/5/1981,21,Silvo,Sam,Williams,,SS,15454T,Drivers Licence,5/5/1971,Central Park,New York,New York,90210,USA,nonvalidemail@email.com,4541217787,Cell
+3,5/5/1981,22,Craig,Mark,Jeff,,MC,45451212T,Medicare Card,5/5/1972,Central Park,New York,New York,90210,USA,nonvalidemail@email.com,1247412121,Home
+4,5/5/1981,23,Clarke,Jonathan,Paul,,JC,4545121211T,Drivers Licence,5/5/1973,1 Place Drive,Toronto,Ontario,H8M3B4,Canada,nonvalidemail@email.com,7878454545,Cell
+5,5/5/1981,24,Jordan,Sandra,Lopez,,SJ,45454T,Social Insurance,5/5/1974,Central Park,New York,New York,90210,USA,nonvalidemail@email.com,1595652477,Home
+6,5/5/1981,25,Paul,Joanne,Marcus,,JP,8787878T,Medicare Card,5/5/1975,1 Place Drive,Toronto,Ontario,H8M3B4,Canada,nonvalidemail@email.com,4542124244,Home
+7,5/5/1981,26,Oneil,Jennifer,Fred,,JO,1487887T,Drivers Licence,5/5/1976,Central Park,New York,New York,90210,USA,nonvalidemail@email.com,1242474141,Home

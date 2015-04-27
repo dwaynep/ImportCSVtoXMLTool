@@ -1,0 +1,23 @@
+<RegistrationRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+	<registrationId>TestRegistrationId</registrationId>
+	<requestDate>testRequestDate</requestDate>
+	<Register>
+		<registerId>TestApplicantId</registerId>
+		<lastName>TestLastName</lastName>
+		<firstName>TestFirstName</firstName>
+		<middleName>TestMiddleName</middleName>
+		<maidenName>TestMaidenName</maidenName>
+		<alias>TestAlias</alias>
+		<idCardNumber>TestIDCardNumber</idCardNumber>
+		<idCardType>TestIdCardType</idCardType>
+		<birthDate>TestBirthDate</birthDate>
+		<streetAddress>TestStreetAddress</streetAddress>
+		<city>TestCity</city>
+		<state>TestState</state>
+		<zipCode>TestZipCode</zipCode>
+		<country>TestCountry</country>
+		<emailAddress>TestEmailAddress</emailAddress>
+		<phoneNumber>TestPhoneNumber</phoneNumber>
+		<phoneType>TestPhoneType</phoneType>
+	</Register>
+</RegistrationRequest>
